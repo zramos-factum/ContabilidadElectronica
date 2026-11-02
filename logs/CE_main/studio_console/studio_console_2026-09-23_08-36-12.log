@@ -1,0 +1,95 @@
+[2026-09-23T13:36:21.223Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 23/9/2026, 8:36:21
+  ==========================================
+  
+
+[2026-09-23T13:37:03.375Z] : [success]: Robot saved successfully
+
+[2026-09-23T13:37:07.820Z] : [error]: Activity parameters required: Click on image
+
+[2026-09-23T13:37:08.146Z] : [info]: ---------------------------------------------
+
+[2026-09-23T13:37:37.964Z] : [success]: Robot saved successfully
+
+[2026-09-23T13:37:41.784Z] : [error]: Activity parameters required: Click on image
+
+[2026-09-23T13:37:42.173Z] : [info]: ---------------------------------------------
+
+[2026-09-23T13:37:51.080Z] : [success]: Robot saved successfully
+
+[2026-09-23T13:37:51.177Z] : [info]: ---------------------------------------------
+
+[2026-09-23T13:37:51.178Z] : [success]: Bot started
+
+[2026-09-23T13:37:51.178Z] : [info]: Robot start
+
+[2026-09-23T13:38:06.337Z] : [info]: C:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426\iim250710b79.cerC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426\Claveprivada_FIEL_IIM250710B79_20250728_104426.keyC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426bula1939
+
+[2026-09-23T13:38:31.210Z] : [error]: Uncaught (in promise): n: {"headers":{"normalizedNames":{},"lazyUpdate":null},"status":400,"statusText":"Bad Request","url":"http://localhost:5003/api/studio/version","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5003/api/studio/version: 400 Bad Request","error":{"statusCode":400,"message":"Error: connect ETIMEDOUT 18.219.166.239:443"}}
+
+[2026-09-23T13:38:31.962Z] : [error]: CER is not defined
+
+[2026-09-23T13:38:32.431Z] : [info]: Total execution time: 40s 784ms
+
+[2026-09-23T13:38:32.432Z] : [info]: ---------------------------------------------
+
+[2026-09-23T13:40:04.438Z] : [success]: Robot saved successfully
+
+[2026-09-23T13:40:29.412Z] : [success]: Bot started
+
+[2026-09-23T13:40:29.413Z] : [info]: Robot start
+
+[2026-09-23T13:40:33.640Z] : [info]: C:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426\iim250710b79.cerC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426\Claveprivada_FIEL_IIM250710B79_20250728_104426.keyC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426bula1939
+
+[2026-09-23T13:41:15.230Z] : [error]: Disposable been disposed
+
+[2026-09-23T13:41:15.521Z] : [info]: Total execution time: 45s 816ms
+
+[2026-09-23T13:41:15.521Z] : [info]: ---------------------------------------------
+
+[2026-09-23T13:44:31.885Z] : [success]: Robot saved successfully
+
+[2026-09-23T13:44:36.905Z] : [success]: Bot started
+
+[2026-09-23T13:44:36.906Z] : [info]: Robot start
+
+[2026-09-23T13:45:13.151Z] : [info]: C:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_NIM250710E92_20250728114008\nim250710e92.cerC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_NIM250710E92_20250728114008\Claveprivada_FIEL_NIM250710E92_20250728_114008.keyC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426bula1939
+
+[2026-09-23T13:46:04.111Z] : [error]: Script Stopped.
+
+[2026-09-23T13:46:04.664Z] : [info]: Total execution time: 1m 27s 204ms
+
+[2026-09-23T13:46:04.666Z] : [info]: ---------------------------------------------
+
+[2026-09-23T13:46:31.666Z] : [success]: Robot saved successfully
+
+[2026-09-23T13:46:39.690Z] : [success]: Robot saved successfully
+
+[2026-09-23T13:46:46.442Z] : [success]: Bot started
+
+[2026-09-23T13:46:46.442Z] : [info]: Robot start
+
+[2026-09-23T13:46:50.947Z] : [info]: C:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_NIM250710E92_20250728114008\nim250710e92.cerC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_NIM250710E92_20250728114008\Claveprivada_FIEL_NIM250710E92_20250728_114008.keyC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426bula1939
+
+[2026-09-23T13:47:50.576Z] : [error]: Script Stopped.
+
+[2026-09-23T13:47:50.818Z] : [info]: Total execution time: 1m 4s 133ms
+
+[2026-09-23T13:47:50.819Z] : [info]: ---------------------------------------------
+
+[2026-09-23T13:48:45.887Z] : [success]: Bot started
+
+[2026-09-23T13:48:45.887Z] : [info]: Robot start
+
+[2026-09-23T13:48:50.249Z] : [info]: C:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_NIM250710E92_20250728114008\nim250710e92.cerC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_NIM250710E92_20250728114008\Claveprivada_FIEL_NIM250710E92_20250728_114008.keyC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426bula1939
+
+[2026-09-23T13:50:18.610Z] : [error]: ZIP is not defined
+
+[2026-09-23T13:50:18.935Z] : [info]: Total execution time: 1m 32s 722ms
+
+[2026-09-23T13:50:18.935Z] : [info]: ---------------------------------------------
+

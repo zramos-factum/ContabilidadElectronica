@@ -1,0 +1,217 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 26/5/2026, 11:36:00
+  ==========================================
+  
+
+[2026-05-26T16:36:07.160Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:36:07.160Z] : [success]: Bot started
+
+[2026-05-26T16:36:07.161Z] : [info]: Robot start
+
+[2026-05-26T16:36:11.187Z] : [success]: Bot finished successfully, total execution time: 4s 18ms
+
+[2026-05-26T16:36:11.190Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:39:02.861Z] : [success]: Robot saved successfully
+
+[2026-05-26T16:39:02.971Z] : [success]: Bot started
+
+[2026-05-26T16:39:02.972Z] : [info]: Robot start
+
+[2026-05-26T16:39:07.932Z] : [success]: Bot finished successfully, total execution time: 4s 955ms
+
+[2026-05-26T16:39:07.934Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:41:03.801Z] : [success]: Bot started
+
+[2026-05-26T16:41:03.802Z] : [info]: Robot start
+
+[2026-05-26T16:41:07.077Z] : [success]: Bot finished successfully, total execution time: 3s 269ms
+
+[2026-05-26T16:41:07.079Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:43:02.488Z] : [success]: Bot started
+
+[2026-05-26T16:43:02.500Z] : [info]: Robot start
+
+[2026-05-26T16:43:04.766Z] : [success]: Bot finished successfully, total execution time: 2s 262ms
+
+[2026-05-26T16:43:04.768Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:44:11.463Z] : [success]: Robot saved successfully
+
+[2026-05-26T16:44:11.578Z] : [success]: Bot started
+
+[2026-05-26T16:44:11.578Z] : [info]: Robot start
+
+[2026-05-26T16:44:15.451Z] : [success]: Bot finished successfully, total execution time: 3s 869ms
+
+[2026-05-26T16:44:15.453Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:45:33.451Z] : [success]: Bot started
+
+[2026-05-26T16:45:33.452Z] : [info]: Robot start
+
+[2026-05-26T16:45:35.654Z] : [success]: Bot finished successfully, total execution time: 2s 199ms
+
+[2026-05-26T16:45:35.655Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:49:26.458Z] : [success]: Robot saved successfully
+
+[2026-05-26T16:49:26.570Z] : [success]: Bot started
+
+[2026-05-26T16:49:26.570Z] : [info]: Robot start
+
+[2026-05-26T16:49:31.699Z] : [error]: CurrentRow is not defined
+
+[2026-05-26T16:49:31.964Z] : [info]: Total execution time: 5s 128ms
+
+[2026-05-26T16:49:31.964Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:50:48.349Z] : [success]: Robot saved successfully
+
+[2026-05-26T16:50:48.471Z] : [success]: Bot started
+
+[2026-05-26T16:50:48.471Z] : [info]: Robot start
+
+[2026-05-26T16:50:52.608Z] : [success]: Bot finished successfully, total execution time: 4s 133ms
+
+[2026-05-26T16:50:52.611Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:52:46.779Z] : [success]: Robot saved successfully
+
+[2026-05-26T16:52:49.738Z] : [success]: Bot started
+
+[2026-05-26T16:52:49.739Z] : [info]: Robot start
+
+[2026-05-26T16:52:51.952Z] : [success]: Bot finished successfully, total execution time: 2s 208ms
+
+[2026-05-26T16:52:51.954Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:55:15.182Z] : [success]: Robot saved successfully
+
+[2026-05-26T16:55:19.114Z] : [success]: Bot started
+
+[2026-05-26T16:55:19.114Z] : [info]: Robot start
+
+[2026-05-26T16:55:22.357Z] : [success]: Bot finished successfully, total execution time: 3s 239ms
+
+[2026-05-26T16:55:22.359Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:56:16.434Z] : [success]: Robot saved successfully
+
+[2026-05-26T16:56:16.528Z] : [success]: Bot started
+
+[2026-05-26T16:56:16.529Z] : [info]: Robot start
+
+[2026-05-26T16:56:21.609Z] : [success]: Bot finished successfully, total execution time: 5s 76ms
+
+[2026-05-26T16:56:21.611Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:56:53.989Z] : [success]: Robot saved successfully
+
+[2026-05-26T16:56:54.109Z] : [success]: Bot started
+
+[2026-05-26T16:56:54.109Z] : [info]: Robot start
+
+[2026-05-26T16:56:59.175Z] : [error]: A is not defined
+
+[2026-05-26T16:56:59.398Z] : [info]: Total execution time: 5s 65ms
+
+[2026-05-26T16:56:59.399Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:59:18.345Z] : [success]: Robot saved successfully
+
+[2026-05-26T16:59:18.475Z] : [success]: Bot started
+
+[2026-05-26T16:59:18.476Z] : [info]: Robot start
+
+[2026-05-26T16:59:23.587Z] : [success]: Bot finished successfully, total execution time: 5s 106ms
+
+[2026-05-26T16:59:23.589Z] : [info]: ---------------------------------------------
+
+[2026-05-26T16:59:38.172Z] : [success]: Robot saved successfully
+
+[2026-05-26T17:08:00.217Z] : [success]: Robot saved successfully
+
+[2026-05-26T17:10:24.806Z] : [success]: Robot saved successfully
+
+[2026-05-26T17:10:31.092Z] : [success]: Bot started
+
+[2026-05-26T17:10:31.093Z] : [info]: Robot start
+
+[2026-05-26T17:10:35.397Z] : [success]: Bot finished successfully, total execution time: 4s 299ms
+
+[2026-05-26T17:10:35.399Z] : [info]: ---------------------------------------------
+
+[2026-05-26T17:13:50.948Z] : [success]: Robot saved successfully
+
+[2026-05-26T17:13:51.126Z] : [success]: Bot started
+
+[2026-05-26T17:13:51.127Z] : [info]: Robot start
+
+[2026-05-26T17:13:57.369Z] : [error]: Selectors: Unexpected character encountered while parsing value: {. Path 'from_row', line 1, position 146.
+
+[2026-05-26T17:13:57.689Z] : [info]: Total execution time: 6s 240ms
+
+[2026-05-26T17:13:57.690Z] : [info]: ---------------------------------------------
+
+[2026-05-26T17:14:20.417Z] : [success]: Robot saved successfully
+
+[2026-05-26T17:14:20.613Z] : [success]: Bot started
+
+[2026-05-26T17:14:20.614Z] : [info]: Robot start
+
+[2026-05-26T17:14:27.593Z] : [success]: Bot finished successfully, total execution time: 6s 975ms
+
+[2026-05-26T17:14:27.597Z] : [info]: ---------------------------------------------
+
+[2026-05-26T17:18:49.532Z] : [success]: Robot saved successfully
+
+[2026-05-26T17:18:49.688Z] : [success]: Bot started
+
+[2026-05-26T17:18:49.689Z] : [info]: Robot start
+
+[2026-05-26T17:18:56.771Z] : [info]: C:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426\iim250710b79.cerC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426\Claveprivada_FIEL_IIM250710B79_20250728_104426.keyC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426bula1939
+
+[2026-05-26T17:18:56.922Z] : [success]: Bot finished successfully, total execution time: 7s 227ms
+
+[2026-05-26T17:18:56.925Z] : [info]: ---------------------------------------------
+
+[2026-05-26T17:20:38.511Z] : [success]: Robot saved successfully
+
+[2026-05-26T17:20:38.733Z] : [success]: Bot started
+
+[2026-05-26T17:20:38.734Z] : [info]: Robot start
+
+[2026-05-26T17:20:44.908Z] : [info]: C:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426\iim250710b79.cerC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426\Claveprivada_FIEL_IIM250710B79_20250728_104426.keyC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426bula1939
+
+[2026-05-26T17:20:45.029Z] : [success]: Bot finished successfully, total execution time: 6s 289ms
+
+[2026-05-26T17:20:45.031Z] : [info]: ---------------------------------------------
+
+[2026-05-26T17:21:00.513Z] : [success]: Robot saved successfully
+
+[2026-05-26T17:21:00.715Z] : [success]: Bot started
+
+[2026-05-26T17:21:00.720Z] : [info]: Robot start
+
+[2026-05-26T17:21:06.822Z] : [info]: C:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426\iim250710b79.cerC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426\Claveprivada_FIEL_IIM250710B79_20250728_104426.keyC:\Users\zramo\OneDrive\Documentos\BOT\D\FIEL_IIM250710B79_20250728104426bula1939
+
+[2026-05-26T17:21:07.917Z] : [info]: ADundefinedmarifa08
+
+[2026-05-26T17:21:09.079Z] : [info]: SDundefined480219hc
+
+[2026-05-26T17:21:10.291Z] : [info]: FHundefined480219HC
+
+[2026-05-26T17:21:11.515Z] : [info]: GJundefinedTetratom123
+
+[2026-05-26T17:21:12.329Z] : [success]: Bot finished successfully, total execution time: 11s 601ms
+
+[2026-05-26T17:21:12.332Z] : [info]: ---------------------------------------------
+
+[2026-05-26T17:21:36.349Z] : [success]: Robot saved successfully
+

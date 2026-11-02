@@ -1,0 +1,143 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 12/3/2026, 8:49:16
+  ==========================================
+  
+
+[2026-03-12T14:49:18.352Z] : [success]: Robot saved successfully
+
+[2026-03-12T14:50:36.298Z] : [info]: ---------------------------------------------
+
+[2026-03-12T14:50:36.299Z] : [success]: Bot started
+
+[2026-03-12T14:50:36.300Z] : [info]: Robot start
+
+[2026-03-12T14:52:14.303Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2026-03-12T14:52:14.622Z] : [info]: Total execution time: 1m 38s 3ms
+
+[2026-03-12T14:52:14.623Z] : [info]: ---------------------------------------------
+
+[2026-03-12T14:55:24.186Z] : [success]: Robot saved successfully
+
+[2026-03-12T14:55:28.880Z] : [success]: Bot started
+
+[2026-03-12T14:55:28.881Z] : [info]: Robot start
+
+[2026-03-12T14:57:07.685Z] : [success]: Bot finished successfully, total execution time: 1m 38s 799ms
+
+[2026-03-12T14:57:07.687Z] : [info]: ---------------------------------------------
+
+[2026-03-12T14:57:33.855Z] : [success]: Robot saved successfully
+
+[2026-03-12T14:57:42.845Z] : [success]: Bot started
+
+[2026-03-12T14:57:42.847Z] : [info]: Robot start
+
+[2026-03-12T14:57:54.159Z] : [success]: Bot finished successfully, total execution time: 11s 306ms
+
+[2026-03-12T14:57:54.161Z] : [info]: ---------------------------------------------
+
+[2026-03-12T14:58:04.080Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:22:33.195Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:22:52.956Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:22:59.818Z] : [success]: Bot started
+
+[2026-03-12T16:22:59.821Z] : [info]: Robot start
+
+[2026-03-12T16:24:32.585Z] : [success]: Bot finished successfully, total execution time: 1m 32s 759ms
+
+[2026-03-12T16:24:32.588Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:27:14.406Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:27:21.883Z] : [success]: Bot started
+
+[2026-03-12T16:27:21.884Z] : [info]: Robot start
+
+[2026-03-12T16:27:56.664Z] : [success]: Bot finished successfully, total execution time: 34s 774ms
+
+[2026-03-12T16:27:56.666Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:28:03.226Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:28:10.079Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:43:12.006Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:43:20.955Z] : [success]: Bot started
+
+[2026-03-12T16:43:20.958Z] : [info]: Robot start
+
+[2026-03-12T16:44:15.771Z] : [error]: Script Stopped.
+
+[2026-03-12T16:44:16.663Z] : [info]: Total execution time: 54s 810ms
+
+[2026-03-12T16:44:16.665Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:44:34.733Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:44:54.636Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:44:58.497Z] : [success]: Bot started
+
+[2026-03-12T16:44:58.499Z] : [info]: Robot start
+
+[2026-03-12T16:45:52.469Z] : [error]: Script Stopped.
+
+[2026-03-12T16:45:53.265Z] : [info]: Total execution time: 53s 969ms
+
+[2026-03-12T16:45:53.267Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:46:20.689Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:46:30.029Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:46:33.185Z] : [success]: Bot started
+
+[2026-03-12T16:46:33.187Z] : [info]: Robot start
+
+[2026-03-12T16:48:16.591Z] : [success]: Bot finished successfully, total execution time: 1m 43s 392ms
+
+[2026-03-12T16:48:16.594Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:48:19.199Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:48:26.914Z] : [success]: Robot saved successfully
+
+[2026-03-12T17:07:53.207Z] : [success]: Robot saved successfully
+
+[2026-03-12T17:07:58.233Z] : [success]: Bot started
+
+[2026-03-12T17:07:58.236Z] : [info]: Robot start
+
+[2026-03-12T17:10:36.058Z] : [success]: Bot finished successfully, total execution time: 2m 37s 812ms
+
+[2026-03-12T17:10:36.064Z] : [info]: ---------------------------------------------
+
+[2026-03-12T17:41:22.173Z] : [success]: Robot saved successfully
+
+[2026-03-12T18:24:42.394Z] : [success]: Bot started
+
+[2026-03-12T18:24:42.442Z] : [info]: Robot start
+
+[2026-03-12T18:27:03.849Z] : [success]: Bot finished successfully, total execution time: 2m 21s 401ms
+
+[2026-03-12T18:27:03.851Z] : [info]: ---------------------------------------------
+
+[2026-03-12T18:47:26.433Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-03-12T18:47:26.436Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-03-12T18:47:26.438Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-03-12T18:47:26.441Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-03-12T18:47:26.447Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-03-12T18:47:26.459Z] : [error]: Cannot read properties of null (reading 'type')
+
